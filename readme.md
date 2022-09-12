@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wandulu Victor</h1>
 <h3 align="center">A Self-taught developer from Uganda</h3>
 
-<p align="left"> <a href="https://twitter.com/victor_wandulu" target="blank"><img src="https://img.shields.io/twitter/follow/victor_wandulu?logo=twitter&style=for-the-badge" alt="victor_wandulu" /></a> </p>
 
 - 🔭 I’m currently working on [An all in one student application](https://github.com/Student-nest)
 
