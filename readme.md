@@ -2,7 +2,6 @@
 <h3 align="center">A Self-taught developer from Uganda</h3>
 
 
-- 🔭 I’m currently working on [An all in one student application](https://github.com/Student-nest)
 
 - 🌱 I’m currently learning **Python language and flutter**
 
