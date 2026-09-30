@@ -1,23 +1,103 @@
-<h1 align="center">Hi 👋, I'm Wandulu Victor</h1>
-<h3 align="center">A Self-taught developer from Uganda</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,60:891321,100:E63946&height=200&section=header&text=Victor%20Wandulu&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Product%20Manager%20and%20Product%20Designer%20%E2%80%A2%20Uganda&descAlignY=58&descSize=18" width="100%" alt="Victor Wandulu" />
 
-
-
-- 🌱 I’m currently learning **Python language and flutter**
-
-- 📫 How to reach me **victorwandulu@gmail.com**
-
-- ⚡ Fun fact **I love to learn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Wandulu_V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor_wandulu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wandulu victor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wandulu victor" height="30" width="40" /></a>
-<a href="https://fb.com/victor_wandulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor_wandulu" height="30" width="40" /></a>
-<a href="https://instagram.com/victor_wandulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_wandulu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://vanvictor-portfolio.netlify.app/">
+    <img src="https://vanvictor-portfolio.netlify.app/victor.webp" width="150" alt="Victor Wandulu" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=640&lines=A+10x+generalist+with+a+harvester+mindset.;Idea+%E2%86%92+strategy+%E2%86%92+design+%E2%86%92+delivery+%E2%86%92+launch.;Freelancing+now+%E2%80%94+open+to+contract+work." alt="Typing intro" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanvictor20&show_icons=true&locale=en&layout=compact" alt="vanvictor20" /></p>
+<p align="center">
+  <a href="https://vanvictor-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-vanvictor--portfolio-E63946?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/wandulu-victor-20563923a/"><img src="https://img.shields.io/badge/LinkedIn-Wandulu%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:victorwandulu@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discordapp.com/users/1309021482340450364"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://x.com/Wandulu_V"><img src="https://img.shields.io/badge/X-@Wandulu__V-171717?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+---
+
+### 👋 Hi, I'm Victor
+
+I'm a **Product Manager and Product Designer** based in Uganda. I take products from a blank page to something real that people actually use: shaping the strategy, designing the experience, leading cross-functional teams through delivery, and taking it to market.
+
+I'm a generalist at heart, with experience across **product design, project management, sales, marketing and business development**, and I bring a *harvester mindset* to all of it: focus on results, move fast, decide well.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🧭 Strategy</b><br/><sub>Discovery, scoping, requirements, roadmaps</sub></td>
+    <td align="center" width="25%"><b>🎨 Design</b><br/><sub>UX flows, UI, design systems, prototypes</sub></td>
+    <td align="center" width="25%"><b>🚚 Delivery</b><br/><sub>Leading teams from sprint zero to launch</sub></td>
+    <td align="center" width="25%"><b>📈 Go-to-market</b><br/><sub>Positioning, sales and growth</sub></td>
+  </tr>
+</table>
+
+### 🗂️ Selected case studies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌙 <a href="https://vanvictor-portfolio.netlify.app/projects/kmapala-nights">Kampala Nights</a></h4>
+      <sub>MOBILE APP · SOLE DESIGNER · LIVE ON GOOGLE PLAY</sub>
+      <p>A membership app that turns Kampala's word-of-mouth nightlife into one living app: a real-time vibe meter, venue-aware matching, 24-hour "Vibes" stories and crowd-voted leaderboards.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧭 <a href="https://vanvictor-portfolio.netlify.app/projects/everything-uganda">Everything Uganda</a></h4>
+      <sub>TRAVEL ECOSYSTEM · AI COMPANION · 2026</sub>
+      <p>A zero-friction travel marketplace for the Pearl of Africa. Discovery first, login last: travelers explore and build trips freely, guided by an AI companion, and only sign in when they're ready to book.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛍️ <a href="https://vanvictor-portfolio.netlify.app/projects/woa-marketplace">World of Afrika: Marketplace</a></h4>
+      <sub>E-COMMERCE · STORY-DRIVEN COMMERCE · 2026</sub>
+      <p>A storefront for authentic African craft where every product carries its maker's story, from featured sellers on the homepage to a Product Story on every listing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ <a href="https://vanvictor-portfolio.netlify.app/projects/world-of-afrika">World of Afrika: Platform</a></h4>
+      <sub>ADMIN & SELLER DASHBOARDS · RBAC · 2026</sub>
+      <p>The operational backbone of a three-sided marketplace: a role-based admin console to curate the platform and a business-in-a-box dashboard for every seller.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>🔜 <b>Tek Affiliate</b>, an affiliate and partner management platform, is currently in design.</sub><br/>
+<a href="https://vanvictor-portfolio.netlify.app/projects"><b>See all case studies →</b></a></p>
+
+### 🧰 Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Workspace" />
+</p>
+
+<p align="center"><sub>…and I speak developer too. I build with:</sub><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,laravel,php,js,python,astro,mysql,git&theme=dark" alt="Tech I build with" />
+</p>
+
+### ⚡ Now
+
+- 💼 **Freelancing**, and available for contract product work
+- 🌍 Designing products for travel, commerce and nightlife across Africa
+- 🌱 Off the clock, you'll find me **at the farm**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanvictor20&hide_border=true&background=171717&ring=E63946&fire=F6BE4F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=A3A3A3&dates=737373&stroke=262626" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>Have a project in mind? <a href="mailto:victorwandulu@gmail.com">Let's work together.</a></b><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=vanvictor20&style=flat-square&color=E63946&label=profile+views" alt="Profile views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,40:891321,100:171717&height=110&section=footer" width="100%" alt="" />
