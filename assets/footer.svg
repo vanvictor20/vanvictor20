@@ -12,10 +12,7 @@
     .flow  { animation: flow var(--d) linear infinite; }
     .w1 { --d: 14s; } .w2 { --d: 20s; animation-direction: reverse; } .w3 { --d: 28s; }
     @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-600px); } }
-    .fade { animation: fade 1.6s ease-out both; }
-    .fade2 { animation: fade 1.6s ease-out .4s both; }
-    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
-    @media (prefers-reduced-motion: reduce) { .flow, .fade, .fade2 { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
 </style>
   <rect width="1200" height="120" fill="url(#bg)"/>
   <g class="flow w3" fill="#0d1117" opacity="0.25"><path d="M0 44 C150 32 150 32 300 44 C450 56 450 56 600 44 C750 32 750 32 900 44 C1050 56 1050 56 1200 44 C1350 32 1350 32 1500 44 C1650 56 1650 56 1800 44 C1950 32 1950 32 2100 44 C2250 56 2250 56 2400 44 L2400 0 L0 0 Z"/></g>
