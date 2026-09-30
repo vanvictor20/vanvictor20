@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bg" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="0.55" stop-color="#891321"/>
+      <stop offset="1" stop-color="#E63946">
+        <animate attributeName="stop-color" values="#E63946;#CF2F3D;#E63946" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <style>
+    .flow  { animation: flow var(--d) linear infinite; }
+    .w1 { --d: 14s; } .w2 { --d: 20s; animation-direction: reverse; } .w3 { --d: 28s; }
+    @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    .fade { animation: fade 1.6s ease-out both; }
+    .fade2 { animation: fade 1.6s ease-out .4s both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .flow, .fade, .fade2 { animation: none; } }
+</style>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <g class="flow w3" fill="#0d1117" opacity="0.25"><path d="M0 44 C150 32 150 32 300 44 C450 56 450 56 600 44 C750 32 750 32 900 44 C1050 56 1050 56 1200 44 C1350 32 1350 32 1500 44 C1650 56 1650 56 1800 44 C1950 32 1950 32 2100 44 C2250 56 2250 56 2400 44 L2400 0 L0 0 Z"/></g>
+  <g class="flow w2" fill="#0d1117" opacity="0.45"><path d="M0 28 C150 18 150 18 300 28 C450 38 450 38 600 28 C750 18 750 18 900 28 C1050 38 1050 38 1200 28 C1350 18 1350 18 1500 28 C1650 38 1650 38 1800 28 C1950 18 1950 18 2100 28 C2250 38 2250 38 2400 28 L2400 0 L0 0 Z"/></g>
+  <g class="flow w1" fill="#0d1117"><path d="M0 12 C150 4 150 4 300 12 C450 20 450 20 600 12 C750 4 750 4 900 12 C1050 20 1050 20 1200 12 C1350 4 1350 4 1500 12 C1650 20 1650 20 1800 12 C1950 4 1950 4 2100 12 C2250 20 2250 20 2400 12 L2400 0 L0 0 Z"/></g>
+</svg>

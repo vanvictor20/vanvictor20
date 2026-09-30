@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Victor Wandulu, Product Manager and Product Designer, Uganda">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="0.55" stop-color="#891321"/>
+      <stop offset="1" stop-color="#E63946">
+        <animate attributeName="stop-color" values="#E63946;#CF2F3D;#E63946" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <style>
+    .flow  { animation: flow var(--d) linear infinite; }
+    .w1 { --d: 14s; } .w2 { --d: 20s; animation-direction: reverse; } .w3 { --d: 28s; }
+    @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    .fade { animation: fade 1.6s ease-out both; }
+    .fade2 { animation: fade 1.6s ease-out .4s both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .flow, .fade, .fade2 { animation: none; } }
+</style>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <g class="flow w3" fill="#ffffff" opacity="0.25"><path d="M0 176 C150 162 150 162 300 176 C450 190 450 190 600 176 C750 162 750 162 900 176 C1050 190 1050 190 1200 176 C1350 162 1350 162 1500 176 C1650 190 1650 190 1800 176 C1950 162 1950 162 2100 176 C2250 190 2250 190 2400 176 L2400 240 L0 240 Z"/></g>
+  <g class="flow w2" fill="#ffffff" opacity="0.45"><path d="M0 196 C150 184 150 184 300 196 C450 208 450 208 600 196 C750 184 750 184 900 196 C1050 208 1050 208 1200 196 C1350 184 1350 184 1500 196 C1650 208 1650 208 1800 196 C1950 184 1950 184 2100 196 C2250 208 2250 208 2400 196 L2400 240 L0 240 Z"/></g>
+  <g class="flow w1" fill="#ffffff"><path d="M0 214 C150 204 150 204 300 214 C450 224 450 224 600 214 C750 204 750 204 900 214 C1050 224 1050 224 1200 214 C1350 204 1350 204 1500 214 C1650 224 1650 224 1800 214 C1950 204 1950 204 2100 214 C2250 224 2250 224 2400 214 L2400 240 L0 240 Z"/></g>
+  <text class="fade" x="600" y="104" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-1">Victor Wandulu</text>
+  <text class="fade2" x="600" y="146" text-anchor="middle" fill="#ffffff" fill-opacity="0.9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500">Product Manager &amp; Product Designer  •  Uganda</text>
+</svg>

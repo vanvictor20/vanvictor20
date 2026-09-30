@@ -1,13 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,60:891321,100:E63946&height=200&section=header&text=Victor%20Wandulu&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Product%20Manager%20and%20Product%20Designer%20%E2%80%A2%20Uganda&descAlignY=58&descSize=18" width="100%" alt="Victor Wandulu" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header.svg" width="100%" alt="Victor Wandulu, Product Manager and Product Designer, Uganda" />
+</picture>
 
 <p align="center">
   <a href="https://vanvictor-portfolio.netlify.app/">
-    <img src="https://vanvictor-portfolio.netlify.app/victor.webp" width="150" alt="Victor Wandulu" />
+    <picture><img src="https://vanvictor-portfolio.netlify.app/victor.webp" width="150" alt="Victor Wandulu" /></picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=640&lines=A+10x+generalist+with+a+harvester+mindset.;Idea+%E2%86%92+strategy+%E2%86%92+design+%E2%86%92+delivery+%E2%86%92+launch.;Freelancing+now+%E2%80%94+open+to+contract+work." alt="Typing intro" />
+  <picture><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=640&lines=A+10x+generalist+with+a+harvester+mindset.;Idea+%E2%86%92+strategy+%E2%86%92+design+%E2%86%92+delivery+%E2%86%92+launch.;Freelancing+now+%E2%80%94+open+to+contract+work." alt="Typing intro" /></picture>
 </p>
 
 <p align="center">
@@ -70,17 +73,17 @@ I'm a generalist at heart, with experience across **product design, project mana
 ### 🧰 Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Workspace" />
+  <picture><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></picture>
+  <picture><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /></picture>
+  <picture><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" /></picture>
+  <picture><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" /></picture>
+  <picture><img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" /></picture>
+  <picture><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /></picture>
+  <picture><img src="https://img.shields.io/badge/Google%20Workspace-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Workspace" /></picture>
 </p>
 
 <p align="center"><sub>…and I speak developer too. I build with:</sub><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,laravel,php,js,python,astro,mysql,git&theme=dark" alt="Tech I build with" />
+  <picture><img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,laravel,php,js,python,astro,mysql,git&theme=dark" alt="Tech I build with" /></picture>
 </p>
 
 ### ⚡ Now
@@ -90,14 +93,17 @@ I'm a generalist at heart, with experience across **product design, project mana
 - 🌱 Off the clock, you'll find me **at the farm**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanvictor20&hide_border=true&background=171717&ring=E63946&fire=F6BE4F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=A3A3A3&dates=737373&stroke=262626" alt="GitHub streak" />
+  <picture><img src="https://streak-stats.demolab.com?user=vanvictor20&hide_border=true&background=171717&ring=E63946&fire=F6BE4F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=A3A3A3&dates=737373&stroke=262626" alt="GitHub streak" /></picture>
 </p>
 
 ---
 
 <p align="center">
   <b>Have a project in mind? <a href="mailto:victorwandulu@gmail.com">Let's work together.</a></b><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=vanvictor20&style=flat-square&color=E63946&label=profile+views" alt="Profile views" />
+  <picture><img src="https://komarev.com/ghpvc/?username=vanvictor20&style=flat-square&color=E63946&label=profile+views" alt="Profile views" /></picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,40:891321,100:171717&height=110&section=footer" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img src="assets/footer.svg" width="100%" alt="" />
+</picture>
